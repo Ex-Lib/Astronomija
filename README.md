@@ -1,2 +1,2 @@
-*** Astronomijos konspektas lietuvių kalba ***
-Conspectus of Astronomy in lithuanian language ***
+### *** Astronomijos konspektas lietuvių kalba ***
+#### * Conspectus of Astronomy in lithuanian language *
